@@ -32,4 +32,4 @@ public class SplashActivity extends AppCompatActivity {
         }.start();
     }
 }
-//25252525
+//25252525252525
